@@ -1,0 +1,351 @@
+{
+
+        "detailProducts": [
+            {   
+                "pid" : "1",
+                "img" :"https://static.nike.com/a/images/w_960,c_limit/31556fac-afd6-42e1-a564-db853fc0f175/image.jpg",
+                "newTitle": "친환경 소재",
+                "cardTitle": "나이키 ACG '캔웰 글레이셔",
+                "cardSubtitle": "여성 써마 핏 ADV 윈드프루프 후드 재킷",
+                "cardItem": "1개 색상",
+                "cardPrice": "65000",
+                "imgList" :[
+                            "https://static.nike.com/a/images/w_960,c_limit/31556fac-afd6-42e1-a564-db853fc0f175/image.jpg",
+                            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bd3a8eff-4681-4687-9fcf-2ff48cc8022d/AIR+MAX+DN8.png",
+                            "/images/products/iconic02.JPG",
+                            "/images/products/iconic01.JPG",
+                            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/601133e7-9e56-46ad-b705-d0be969e57a4/AIR+MAX+DN8.png"
+                            ],
+                "detailImgList": [
+                            "https://static.nike.com/a/images/w_960,c_limit/31556fac-afd6-42e1-a564-db853fc0f175/image.jpg",
+                            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bd3a8eff-4681-4687-9fcf-2ff48cc8022d/AIR+MAX+DN8.png",
+                            "/images/products/iconic02.JPG",
+                            "/images/products/iconic01.JPG",
+                            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/601133e7-9e56-46ad-b705-d0be969e57a4/AIR+MAX+DN8.png"
+                            ]
+            },
+            {   
+                "pid" : "2",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0e88d96b-d782-4471-8457-6eab2237d721/AIR+FORCE+1+%2707+LV8.png",
+                "newTitle": "친환경 소재",
+                "cardTitle": "나이키 스포츠웨어 스트리트",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "119000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0e88d96b-d782-4471-8457-6eab2237d721/AIR+FORCE+1+%2707+LV8.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/af78b039-5cba-4503-966b-4773d7ba401f/AIR+FORCE+1+%2707+LV8.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2e5cda11-5b2a-4d61-9572-26c4a21e8cf9/AIR+FORCE+1+%2707+LV8.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/af78b039-5cba-4503-966b-4773d7ba401f/AIR+FORCE+1+%2707+LV8.png"
+                    
+                    ],
+                    "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0e88d96b-d782-4471-8457-6eab2237d721/AIR+FORCE+1+%2707+LV8.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/af78b039-5cba-4503-966b-4773d7ba401f/AIR+FORCE+1+%2707+LV8.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2e5cda11-5b2a-4d61-9572-26c4a21e8cf9/AIR+FORCE+1+%2707+LV8.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/af78b039-5cba-4503-966b-4773d7ba401f/AIR+FORCE+1+%2707+LV8.png"
+                    ]
+            },
+            {
+                "pid" : "3",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/86709029-135e-4278-aeca-b0dab3468bdb/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png",
+                "newTitle": "친환경 소재",
+                "cardTitle": "나이키 스포츠웨어 스트리트",
+                "cardSubtitle": "여성 오버사이즈 반팔 그래픽 저지",
+                "cardItem": "1개 색상",
+                "cardPrice": "99000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/86709029-135e-4278-aeca-b0dab3468bdb/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ee2945a8-dcf3-45eb-b2e0-00ca85a74f63/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ab04dff2-ea5d-4bc4-b9ca-b60379f3ea5a/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0ea96078-6961-4e5a-ab78-f05b5baddb26/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png"
+                            ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/86709029-135e-4278-aeca-b0dab3468bdb/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ee2945a8-dcf3-45eb-b2e0-00ca85a74f63/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ab04dff2-ea5d-4bc4-b9ca-b60379f3ea5a/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0ea96078-6961-4e5a-ab78-f05b5baddb26/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png"
+                            ]
+            },
+            {
+                "pid" : "4",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c2d7630f-103f-429d-8acf-7ccef41183be/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 ISPA",
+                "cardSubtitle": "어댑트 센스 에어 재킷",
+                "cardItem": "1개 색상",
+                "cardPrice": "575000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32801eee-e92f-4fed-aa58-ed81a66ac602/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/53278795-b211-4b61-aff4-7c68c8b818d2/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7599f8cc-4d1b-43e1-b3eb-1f179ab42b2d/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32801eee-e92f-4fed-aa58-ed81a66ac602/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/53278795-b211-4b61-aff4-7c68c8b818d2/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7599f8cc-4d1b-43e1-b3eb-1f179ab42b2d/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png"
+                    ]
+            },
+            {
+                "pid" : "5",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6c916724-b326-476d-87a5-2b57d667a0f3/NIKE+P-6000.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 P6000",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "99000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6c916724-b326-476d-87a5-2b57d667a0f3/NIKE+P-6000.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/df3c6245-f78c-40fd-b016-9449f60bef7c/NIKE+P-6000.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7f03aa5d-6cc5-48af-a852-003c00a5b529/NIKE+P-6000.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6c916724-b326-476d-87a5-2b57d667a0f3/NIKE+P-6000.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/df3c6245-f78c-40fd-b016-9449f60bef7c/NIKE+P-6000.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7f03aa5d-6cc5-48af-a852-003c00a5b529/NIKE+P-6000.png"
+                    ]
+            
+            },
+            {
+                "pid" : "6",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fa932cd0-181b-49b5-a3ee-ad3e8d99b972/W+NIKE+VOMERO+18.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 보메로",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "179000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fa932cd0-181b-49b5-a3ee-ad3e8d99b972/W+NIKE+VOMERO+18.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8a8eb9b0-db5a-40ef-aa59-c6426041ad74/W+NIKE+VOMERO+18.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aa9bfe16-904c-47ff-a6c1-0e949b3d569b/W+NIKE+VOMERO+18.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fa932cd0-181b-49b5-a3ee-ad3e8d99b972/W+NIKE+VOMERO+18.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8a8eb9b0-db5a-40ef-aa59-c6426041ad74/W+NIKE+VOMERO+18.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aa9bfe16-904c-47ff-a6c1-0e949b3d569b/W+NIKE+VOMERO+18.png"
+                    ]
+            
+            },
+            {
+                "pid" : "7",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/46db3e20-a4f0-4df8-b92a-5e08b5dd74d5/W+AIR+FORCE+1+DANCE.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 에어 포스 1 댄스",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32801eee-e92f-4fed-aa58-ed81a66ac602/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/65fe3833-9b1a-417e-b670-4c625300fdde/W+AIR+FORCE+1+DANCE.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32801eee-e92f-4fed-aa58-ed81a66ac602/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/65fe3833-9b1a-417e-b670-4c625300fdde/W+AIR+FORCE+1+DANCE.png"
+                    ]
+            
+            },
+            {
+                "pid" : "8",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f691ff42-6e76-4d90-80f9-d0dbc4994351/W+ZOOMX+VAPORFLY+NEXT%25+4.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 베이퍼 플라이",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f691ff42-6e76-4d90-80f9-d0dbc4994351/W+ZOOMX+VAPORFLY+NEXT%25+4.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/24a755a3-8314-4cd5-a8d0-e78fff422591/W+ZOOMX+VAPORFLY+NEXT%25+4.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32801eee-e92f-4fed-aa58-ed81a66ac602/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/24a755a3-8314-4cd5-a8d0-e78fff422591/W+ZOOMX+VAPORFLY+NEXT%25+4.png"
+                    ]
+            
+            },
+            {
+                "pid" : "9",
+                "img" :"/images/products/airmax02.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 페가수스 프리미엄",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000"
+            },
+            {
+                "pid" : "10",
+                "img" :"/images/products/airmax01.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 페가수스 프리미엄",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000"
+            },
+            {
+                "pid" : "11",
+                "img" :"/images/products/airmax02.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 페가수스 프리미엄",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000",
+                "imgList" :[
+                            "/images/products/airmax02.png",
+                            "/images/products/airmax02.png"
+                            ],
+                "detailImgList": [
+                            "/images/products/airmax02.png",
+                            "/images/products/airmax02.png",
+                            "/images/products/airmax02.png",
+                            "/images/products/airmax02.png",
+                            "/images/products/airmax02.png"
+                            ]
+            },   
+            { 
+                "pid" : "12",
+                "img" :"/images/products/airmax01.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 페가수스 프리미엄",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000"
+            },
+            {
+                "pid" : "13",
+                "img" :"/images/products/flop01.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 페가수스 프리미엄",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000"
+            }
+
+    ],
+
+
+
+    
+
+
+
+
+
+    "detailBox": [
+        {   
+            "pid" : "1",
+            "pdp" :"친환경 소재",
+            "title": "나이키 ACG '캔웰 글레이셔",
+            "description": "여성 써마 핏 ADV 윈드프루프 후드 재킷",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "2",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스포츠웨어 스트리트",
+            "description": "로드 러닝화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "3",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스포츠웨어 스트리트",
+            "description": "여성 오버사이즈 반팔 그래픽 저지",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "4",
+            "pdp" :"친환경 소재",
+            "title": "나이키 ISPA",
+            "description": "어댑트 센스 에어 재킷",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },      
+        {   
+            "pid" : "5",
+            "pdp" :"친환경 소재",
+            "title": "나이키 P6000",
+            "description": "로드 러닝화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "6",
+            "pdp" :"친환경 소재",
+            "title": "나이키 보메로",
+            "description": "로드 러닝화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "7",
+            "pdp" :"친환경 소재",
+            "title": "나이키 에어 포스 1 댄스",
+            "description": "로드 러닝화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "8",
+            "pdp" :"친환경 소재",
+            "title": "나이키 베이퍼 플라이",
+            "description": "로드 러닝화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "9",
+            "pdp" :"친환경 소재",
+            "title": "나이키 페가수스 프리미엄",
+            "description": "로드 러닝화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },      
+        {   
+            "pid" : "10",
+            "pdp" :"친환경 소재",
+            "title": "나이키 페가수스 프리미엄",
+            "description": "로드 러닝화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "11",
+            "pdp" :"친환경 소재",
+            "title": "나이키 페가수스 프리미엄",
+            "description": "로드 러닝화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "12",
+            "pdp" :"친환경 소재",
+            "title": "나이키 페가수스 프리미엄",
+            "description": "로드 러닝화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "13",
+            "pdp" :"친환경 소재",
+            "title": "나이키 페가수스 프리미엄",
+            "description": "로드 러닝화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "14",
+            "pdp" :"친환경 소재",
+            "title": "나이키 페가수스 프리미엄",
+            "description": "로드 러닝화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        }
+    ]
+
+
+}
+
+
+

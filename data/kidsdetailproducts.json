@@ -1,0 +1,348 @@
+{
+
+        "detailProducts": [
+            {   
+                "pid" : "1",
+                "img" :"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/94afa329-efd3-41a2-b290-7d488460c6da/NIKE+DYNAMO+2+EASYON+%28PS%29.png",
+                "newTitle": "친환경 소재",
+                "cardTitle": "나이키 다이나모",
+                "cardSubtitle": "리틀 키즈 신발",
+                "cardItem": "1개 색상",
+                "cardPrice": "65000",
+                "imgList" :[
+                            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f8ecf47e-3843-4854-90f0-310f72ff75fe/NIKE+DYNAMO+2+EASYON+%28PS%29.png",
+                            "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/94afa329-efd3-41a2-b290-7d488460c6da/NIKE+DYNAMO+2+EASYON+%28PS%29.png",
+                            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e51610f7-1053-42fa-8111-265dfde378d3/NIKE+DYNAMO+2+EASYON+%28PS%29.png"
+                            ],
+                "detailImgList": [
+                            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f8ecf47e-3843-4854-90f0-310f72ff75fe/NIKE+DYNAMO+2+EASYON+%28PS%29.png",
+                            "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/94afa329-efd3-41a2-b290-7d488460c6da/NIKE+DYNAMO+2+EASYON+%28PS%29.png",
+                            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e51610f7-1053-42fa-8111-265dfde378d3/NIKE+DYNAMO+2+EASYON+%28PS%29.png"
+                            ]
+                
+                    
+            },
+            {   
+                "pid" : "2",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0fd843a9-07dc-4352-9307-041b56dcf194/VOMERO+5+%28GS%29.png",
+                "newTitle": "친환경 소재",
+                "cardTitle": "나이키 보메로 5",
+                "cardSubtitle": "주니어 신발",
+                "cardItem": "1개 색상",
+                "cardPrice": "129000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0fd843a9-07dc-4352-9307-041b56dcf194/VOMERO+5+%28GS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7f0fd1d0-97eb-4ac6-8d80-9171279af5b3/VOMERO+5+%28GS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/33923f6f-6ee3-4b12-9c39-50657022940d/VOMERO+5+%28GS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/65f41b28-b78f-481a-878c-1c08eeb2517a/VOMERO+5+%28GS%29.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0fd843a9-07dc-4352-9307-041b56dcf194/VOMERO+5+%28GS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7f0fd1d0-97eb-4ac6-8d80-9171279af5b3/VOMERO+5+%28GS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/33923f6f-6ee3-4b12-9c39-50657022940d/VOMERO+5+%28GS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/65f41b28-b78f-481a-878c-1c08eeb2517a/VOMERO+5+%28GS%29.png"
+                    ]
+            },
+            {
+                "pid" : "3",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/58d055b4-2af6-4bb0-b2e2-e8d462ed8d32/JORDAN+1+LOW+ALT+%28PS%29.png",
+                "newTitle": "신제품",
+                "cardTitle": "조던 1 로우 알트",
+                "cardSubtitle": "주니어 신발",
+                "cardItem": "1개 색상",
+                "cardPrice": "90000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/58d055b4-2af6-4bb0-b2e2-e8d462ed8d32/JORDAN+1+LOW+ALT+%28PS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/334e6f27-ff6c-4362-a6bb-41fcdfbbb9f6/JORDAN+1+LOW+ALT+%28PS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ef64730d-e0e3-4e7c-9ab6-93864583f97d/JORDAN+1+LOW+ALT+%28PS%29.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/58d055b4-2af6-4bb0-b2e2-e8d462ed8d32/JORDAN+1+LOW+ALT+%28PS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/334e6f27-ff6c-4362-a6bb-41fcdfbbb9f6/JORDAN+1+LOW+ALT+%28PS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ef64730d-e0e3-4e7c-9ab6-93864583f97d/JORDAN+1+LOW+ALT+%28PS%29.png"
+                    ]
+            },
+            {
+                "pid" : "4",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3c0378df-9e69-4316-9f80-cf0e7a662197/AIR+JORDAN+1+LOW+SE+%28GS%29.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 ISPA",
+                "cardSubtitle": "어댑트 센스 에어 재킷",
+                "cardItem": "1개 색상",
+                "cardPrice": "575000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3c0378df-9e69-4316-9f80-cf0e7a662197/AIR+JORDAN+1+LOW+SE+%28GS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cdca621d-6826-4db3-bb58-d30d088ddf8d/AIR+JORDAN+1+LOW+SE+%28GS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e6d20024-1399-4caa-8909-44fe7a05ea4e/AIR+JORDAN+1+LOW+SE+%28GS%29.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3c0378df-9e69-4316-9f80-cf0e7a662197/AIR+JORDAN+1+LOW+SE+%28GS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cdca621d-6826-4db3-bb58-d30d088ddf8d/AIR+JORDAN+1+LOW+SE+%28GS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e6d20024-1399-4caa-8909-44fe7a05ea4e/AIR+JORDAN+1+LOW+SE+%28GS%29.png"
+                    ]
+            },
+            {
+                "pid" : "5",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6c916724-b326-476d-87a5-2b57d667a0f3/NIKE+P-6000.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 P6000",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6c916724-b326-476d-87a5-2b57d667a0f3/NIKE+P-6000.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/df3c6245-f78c-40fd-b016-9449f60bef7c/NIKE+P-6000.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7f03aa5d-6cc5-48af-a852-003c00a5b529/NIKE+P-6000.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6c916724-b326-476d-87a5-2b57d667a0f3/NIKE+P-6000.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/df3c6245-f78c-40fd-b016-9449f60bef7c/NIKE+P-6000.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7f03aa5d-6cc5-48af-a852-003c00a5b529/NIKE+P-6000.png"
+                    ]
+            
+            },
+            {
+                "pid" : "6",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fa932cd0-181b-49b5-a3ee-ad3e8d99b972/W+NIKE+VOMERO+18.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 보메로",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "179000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fa932cd0-181b-49b5-a3ee-ad3e8d99b972/W+NIKE+VOMERO+18.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8a8eb9b0-db5a-40ef-aa59-c6426041ad74/W+NIKE+VOMERO+18.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aa9bfe16-904c-47ff-a6c1-0e949b3d569b/W+NIKE+VOMERO+18.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fa932cd0-181b-49b5-a3ee-ad3e8d99b972/W+NIKE+VOMERO+18.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8a8eb9b0-db5a-40ef-aa59-c6426041ad74/W+NIKE+VOMERO+18.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aa9bfe16-904c-47ff-a6c1-0e949b3d569b/W+NIKE+VOMERO+18.png"
+                    ]
+            
+            },
+            {
+                "pid" : "7",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cbbe50be-31b2-4cf2-9df6-e09be26e26a1/JORDAN+CMFT+ERA+%28GS%29.png",
+                "newTitle": "신제품",
+                "cardTitle": "조던 컴포트 에라",
+                "cardSubtitle": "주니어 신발",
+                "cardItem": "1개 색상",
+                "cardPrice": "179000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cbbe50be-31b2-4cf2-9df6-e09be26e26a1/JORDAN+CMFT+ERA+%28GS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/43d1f04f-6f94-4ae2-b2df-6efb4ad45515/JORDAN+CMFT+ERA+%28GS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b831f9a7-9577-4042-81ea-3bf3ef6a69a1/JORDAN+CMFT+ERA+%28GS%29.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cbbe50be-31b2-4cf2-9df6-e09be26e26a1/JORDAN+CMFT+ERA+%28GS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/43d1f04f-6f94-4ae2-b2df-6efb4ad45515/JORDAN+CMFT+ERA+%28GS%29.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b831f9a7-9577-4042-81ea-3bf3ef6a69a1/JORDAN+CMFT+ERA+%28GS%29.png"
+                    ]
+            
+            },
+            {
+                "pid" : "8",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f691ff42-6e76-4d90-80f9-d0dbc4994351/W+ZOOMX+VAPORFLY+NEXT%25+4.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 베이퍼 플라이",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f691ff42-6e76-4d90-80f9-d0dbc4994351/W+ZOOMX+VAPORFLY+NEXT%25+4.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/24a755a3-8314-4cd5-a8d0-e78fff422591/W+ZOOMX+VAPORFLY+NEXT%25+4.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32801eee-e92f-4fed-aa58-ed81a66ac602/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/24a755a3-8314-4cd5-a8d0-e78fff422591/W+ZOOMX+VAPORFLY+NEXT%25+4.png"
+                    ]
+            
+            },
+            {
+                "pid" : "9",
+                "img" :"/images/products/airmax02.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 페가수스 프리미엄",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000"
+            },
+            {
+                "pid" : "10",
+                "img" :"/images/products/airmax01.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 페가수스 프리미엄",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000"
+            },
+            {
+                "pid" : "11",
+                "img" :"/images/products/airmax02.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 페가수스 프리미엄",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000",
+                "imgList" :[
+                            "/images/products/airmax02.png",
+                            "/images/products/airmax02.png"
+                            ],
+                "detailImgList": [
+                            "/images/products/airmax02.png",
+                            "/images/products/airmax02.png",
+                            "/images/products/airmax02.png",
+                            "/images/products/airmax02.png",
+                            "/images/products/airmax02.png"
+                            ]
+            },   
+            { 
+                "pid" : "12",
+                "img" :"/images/products/airmax01.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 페가수스 프리미엄",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000"
+            },
+            {
+                "pid" : "13",
+                "img" :"/images/products/flop01.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 페가수스 프리미엄",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000"
+            }
+
+    ],
+
+
+
+    
+
+
+
+
+
+    "detailBox": [
+        {   
+            "pid" : "1",
+            "pdp" :"베스트셀러",
+            "title": "나이키 ACG '캔웰 글레이셔",
+            "description": "주니어 신발",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "2",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스위프트",
+            "description": "주니어 신발",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "3",
+            "pdp" :"친환경 소재",
+            "title": "조던 1 로우 알트",
+            "description": "주니어 신발",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "4",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스위프트",
+            "description": "주니어 신발",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },      
+        {   
+            "pid" : "5",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스위프트",
+            "description": "주니어 신발",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "6",
+            "pdp" :"친환경 소재",
+            "title": "조던 컴포트 에라",
+            "description": "주니어 신발",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "7",
+            "pdp" :"친환경 소재",
+            "title": "조던 컴포츠 에라",
+            "description": "주니어 신발",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "8",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스위프트",
+            "description": "주니어 신발",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "9",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스위프트",
+            "description": "주니어 신발",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },      
+        {   
+            "pid" : "10",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스위프트",
+            "description": "주니어 신발",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "11",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스위프트",
+            "description": "주니어 신발",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "12",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스위프트",
+            "description": "주니어 신발",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "13",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스위프트",
+            "description": "주니어 신발",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "14",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스위프트",
+            "description": "주니어 신발",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        }
+    ]
+
+
+}
+
+
+
