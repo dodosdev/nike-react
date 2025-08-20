@@ -1,0 +1,536 @@
+{
+
+        "detailProducts": [
+            {   
+                "pid" : "1",
+                "img" :"/images/products/tanktop01.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 스위프트",
+                "cardSubtitle": "여성 드라이 핏 러닝 탱크 탑",
+                "cardItem": "1개 색상",
+                "cardPrice": "65000",
+                "imgList" :[
+                            "/images/products/newpd01.JPG",
+                            "/images/products/newpd02.JPG",
+                            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ad90f04f-ec1a-4371-b1f3-91c3dc347960/AS+W+NK+SWIFT+DF+TANK+TOP.png",
+                            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4f5d16fe-ac67-4754-84cb-03885683a35e/AS+W+NK+SWIFT+DF+TANK+TOP.png"
+                            ],
+                "detailImgList": [
+                            "/images/products/tanktop01.png",
+                            "/images/products/newpd01.JPG",
+                            "/images/products/newpd02.JPG",
+                            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ad90f04f-ec1a-4371-b1f3-91c3dc347960/AS+W+NK+SWIFT+DF+TANK+TOP.png",
+                            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4f5d16fe-ac67-4754-84cb-03885683a35e/AS+W+NK+SWIFT+DF+TANK+TOP.png"
+                            ]
+                
+                    
+            },
+            {
+                "pid" : "2",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/86709029-135e-4278-aeca-b0dab3468bdb/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png",
+                "newTitle": "친환경 소재",
+                "cardTitle": "나이키 스포츠웨어 스트리트",
+                "cardSubtitle": "여성 오버사이즈 반팔 그래픽 저지",
+                "cardItem": "1개 색상",
+                "cardPrice": "99000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/86709029-135e-4278-aeca-b0dab3468bdb/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ee2945a8-dcf3-45eb-b2e0-00ca85a74f63/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ab04dff2-ea5d-4bc4-b9ca-b60379f3ea5a/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0ea96078-6961-4e5a-ab78-f05b5baddb26/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png"
+                            ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/86709029-135e-4278-aeca-b0dab3468bdb/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ee2945a8-dcf3-45eb-b2e0-00ca85a74f63/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ab04dff2-ea5d-4bc4-b9ca-b60379f3ea5a/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0ea96078-6961-4e5a-ab78-f05b5baddb26/AS+W+NSW+STREET+SS+GX+JRSY+TOP.png"
+                            ]
+            },
+            {   
+                "pid" : "3",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c2d7630f-103f-429d-8acf-7ccef41183be/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 ISPA",
+                "cardSubtitle": "어댑트 센스 에어 재킷",
+                "cardItem": "1개 색상",
+                "cardPrice": "575000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32801eee-e92f-4fed-aa58-ed81a66ac602/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/53278795-b211-4b61-aff4-7c68c8b818d2/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7599f8cc-4d1b-43e1-b3eb-1f179ab42b2d/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32801eee-e92f-4fed-aa58-ed81a66ac602/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/53278795-b211-4b61-aff4-7c68c8b818d2/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7599f8cc-4d1b-43e1-b3eb-1f179ab42b2d/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png"
+                    ]
+            },
+            {
+                "pid" : "4",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7912fd75-55e3-439d-b6de-158f50cf2dd5/AS+M+NK+SOLO+SWSH+PO+HDY+WSH+G.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 솔로 스우시",
+                "cardSubtitle": "남성 플리스 후디",
+                "cardItem": "1개 색상",
+                "cardPrice": "90000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7912fd75-55e3-439d-b6de-158f50cf2dd5/AS+M+NK+SOLO+SWSH+PO+HDY+WSH+G.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ab42fd91-9c21-40f5-b9a1-13d48073fe4f/AS+M+NK+SOLO+SWSH+PO+HDY+WSH+G.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ea3f48ef-4dea-4f56-b0f8-5394f545a0f5/AS+M+NK+SOLO+SWSH+PO+HDY+WSH+G.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/625fefa9-da39-4930-835c-eccabd7bab1c/AS+M+NK+SOLO+SWSH+PO+HDY+WSH+G.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7912fd75-55e3-439d-b6de-158f50cf2dd5/AS+M+NK+SOLO+SWSH+PO+HDY+WSH+G.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ab42fd91-9c21-40f5-b9a1-13d48073fe4f/AS+M+NK+SOLO+SWSH+PO+HDY+WSH+G.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ea3f48ef-4dea-4f56-b0f8-5394f545a0f5/AS+M+NK+SOLO+SWSH+PO+HDY+WSH+G.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/625fefa9-da39-4930-835c-eccabd7bab1c/AS+M+NK+SOLO+SWSH+PO+HDY+WSH+G.png"
+                    ]
+            },
+            {
+                "pid" : "5",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/46db3e20-a4f0-4df8-b92a-5e08b5dd74d5/W+AIR+FORCE+1+DANCE.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 에어 포스 1 댄스",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32801eee-e92f-4fed-aa58-ed81a66ac602/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/65fe3833-9b1a-417e-b670-4c625300fdde/W+AIR+FORCE+1+DANCE.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32801eee-e92f-4fed-aa58-ed81a66ac602/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/65fe3833-9b1a-417e-b670-4c625300fdde/W+AIR+FORCE+1+DANCE.png"
+                    ]
+            
+            },
+            {
+                "pid" : "6",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fa932cd0-181b-49b5-a3ee-ad3e8d99b972/W+NIKE+VOMERO+18.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 보메로",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "179000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fa932cd0-181b-49b5-a3ee-ad3e8d99b972/W+NIKE+VOMERO+18.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8a8eb9b0-db5a-40ef-aa59-c6426041ad74/W+NIKE+VOMERO+18.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aa9bfe16-904c-47ff-a6c1-0e949b3d569b/W+NIKE+VOMERO+18.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fa932cd0-181b-49b5-a3ee-ad3e8d99b972/W+NIKE+VOMERO+18.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8a8eb9b0-db5a-40ef-aa59-c6426041ad74/W+NIKE+VOMERO+18.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aa9bfe16-904c-47ff-a6c1-0e949b3d569b/W+NIKE+VOMERO+18.png"
+                    ]
+            },
+            {
+                "pid" : "7",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/46db3e20-a4f0-4df8-b92a-5e08b5dd74d5/W+AIR+FORCE+1+DANCE.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 에어 포스 1 댄스",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32801eee-e92f-4fed-aa58-ed81a66ac602/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/65fe3833-9b1a-417e-b670-4c625300fdde/W+AIR+FORCE+1+DANCE.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32801eee-e92f-4fed-aa58-ed81a66ac602/AS+U+ISPA+ADPT+SNSE+AIR+JKT.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/65fe3833-9b1a-417e-b670-4c625300fdde/W+AIR+FORCE+1+DANCE.png"
+                    ]
+            
+            },
+            {
+                "pid" : "8",
+                "img" :"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f691ff42-6e76-4d90-80f9-d0dbc4994351/W+ZOOMX+VAPORFLY+NEXT%25+4.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 베이퍼 플라이",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000",
+                "imgList" :[
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f691ff42-6e76-4d90-80f9-d0dbc4994351/W+ZOOMX+VAPORFLY+NEXT%25+4.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/14565180-0550-4c38-9d50-bf13085f70da/ZOOMX+VAPORFLY+NEXT%25+4.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/24a755a3-8314-4cd5-a8d0-e78fff422591/W+ZOOMX+VAPORFLY+NEXT%25+4.png"
+                    ],
+                "detailImgList": [
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f691ff42-6e76-4d90-80f9-d0dbc4994351/W+ZOOMX+VAPORFLY+NEXT%25+4.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/14565180-0550-4c38-9d50-bf13085f70da/ZOOMX+VAPORFLY+NEXT%25+4.png",
+                    "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/24a755a3-8314-4cd5-a8d0-e78fff422591/W+ZOOMX+VAPORFLY+NEXT%25+4.png"
+                    ]
+            
+            },
+            {
+                "pid" : "9",
+                "img" :"/images/products/airmax02.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 페가수스 프리미엄",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000"
+            },
+            {
+                "pid" : "10",
+                "img" :"/images/products/airmax01.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 페가수스 트레일 5 GORE-TEX",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "209000"
+            },
+            {
+                "pid" : "11",
+                "img" :"/images/products/airmax02.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 페가수스 프리미엄",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000",
+                "imgList" :[
+                            "/images/products/airmax02.png",
+                            "/images/products/airmax02.png"
+                            ],
+                "detailImgList": [
+                            "/images/products/airmax02.png",
+                            "/images/products/airmax02.png",
+                            "/images/products/airmax02.png",
+                            "/images/products/airmax02.png",
+                            "/images/products/airmax02.png"
+                            ]
+            },   
+            { 
+                "pid" : "12",
+                "img" :"/images/products/airmax01.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 테라 만",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000"
+            },
+            {
+                "pid" : "13",
+                "img" :"/images/products/flop01.png",
+                "newTitle": "신제품",
+                "cardTitle": "나이키 페가수스 프리미엄",
+                "cardSubtitle": "로드 러닝화",
+                "cardItem": "1개 색상",
+                "cardPrice": "279000"
+            }
+
+    ],
+
+
+
+    
+
+
+
+
+
+    "detailBox": [
+        {   
+            "pid" : "1",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스위프트",
+            "description": "여성 드라이 핏 러닝 탱크 탑",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "2",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스포츠웨어 스트리트",
+            "description": "여성 오버사이즈 반팔 그래픽 저지",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "3",
+            "pdp" :"친환경 소재",
+            "title": "나이키 ISPA",
+            "description": "남성 플리스 후디",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "4",
+            "pdp" :"친환경 소재",
+            "title": "나이키 솔로 스우시",
+            "description": "남성 플리스 후디",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },      
+        {   
+            "pid" : "5",
+            "pdp" :"친환경 소재",
+            "title": "나이키 에어 포스 1 댄스",
+            "description": "로드 러닝화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "6",
+            "pdp" :"친환경 소재",
+            "title": "나이키 보메로",
+            "description": "로드 러닝화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "7",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스위프트",
+            "description": "로드 러닝화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "8",
+            "pdp" :"친환경 소재",
+            "title": "나이키 베이퍼 플라이",
+            "description": "로드 러닝화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "9",
+            "pdp" :"친환경 소재",
+            "title": "나이키 줌 플라이",
+            "description": "로드 레이싱화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },      
+        {   
+            "pid" : "10",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스위프트",
+            "description": "로드 레이싱화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "11",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스위프트",
+            "description": "로드 레이싱화 ",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "12",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스위프트",
+            "description": "로드 레이싱화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "13",
+            "pdp" :"친환경 소재",
+            "title": "나이키 스위프트",
+            "description": "로드 레이싱화",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        },
+        {   
+            "pid" : "14",
+            "pdp" :"친환경 소재",
+            "title": "나이키 캄",
+            "description": "여성 슬라이드",
+            "icon" : "/images/products/detail-icon.JPG",
+            "info": "품절임박! 서둘러 주문하세요."
+        }
+    ],
+
+
+    "info":[
+        {  
+            "title" : "배송정보",
+            "desc" : [
+                {
+                    "detail" : "상품별로 상품 특성 및 배송지에 따라 배송유형 및 소요기간이 달라집니다."
+                },
+                {
+                    "detail" : "일부 주문상품 또는 예약상품의 경우 기본 배송일 외에 추가 배송 소요일이 발생될 수 있습니다."
+                },
+                {
+                    "detail" : " 동일 브랜드의 상품이라도 상품별 출고일시가 달라 각각 배송될 수 있습니다."
+                },
+                {
+                    "detail" : " 제주 및 도서산간 지역은 출고, 반품, 교환시 추가 배송비(항공, 도선료)가 부과 될 수 있습니다."
+                },
+                {
+                    "detail" : "상품의 배송비는 공급업체의 정책에 따라 다르오며 공휴일 및 휴일은 배송이 불가합니다."
+                }
+            ]
+        }
+    ],
+
+
+
+
+
+
+
+    "qna": [
+        {
+            "state": "답변완료",
+            "title": "나이키 멤버십이란 무엇인가요?",
+            "email": "test1@naver.com"
+        },
+        {
+            "state": "답변완료",
+            "title": "현재 저는 나이키 멤버인가요?",
+            "email": "test2@google.com"
+        },
+        {
+            "state": "미답변",
+            "title": "나이키 멤버십 가입은 무료인가요?",
+            "email": "test3@daum.net"
+        },
+        {
+            "state": "답변완료",
+            "title": "나이키의 배송 옵션에는 어떤 게 있나요?",
+            "email": "test1@naver.com"
+        },
+        {
+            "state": "답변완료",
+            "title": "Draw는 어떻게 응모하나요?",
+            "email": "test2@google.com"
+        },
+        {
+            "state": "미답변",
+            "title": "제품 구매 시, 참고할 수 있는 나이키(제품/ 사이즈) 가이드가 있나요?",
+            "email": "test3@daum.net"
+        },
+        {
+            "state": "답변완료",
+            "title": "나이키의 품질 보증 기간은 어떻게 되나요?",
+            "email": "test1@naver.com"
+        },
+        {
+            "state": "답변완료",
+            "title": "나이키의 A/S 절차는 어떻게 되나요?",
+            "email": "test2@google.com"
+        },
+        {
+            "state": "미답변",
+            "title": "주문 및 배송 상황은 어떻게 조회하나요?",
+            "email": "test3@daum.net"
+        }
+    ],
+
+    
+    
+    "returnDelivery" :[
+        {
+            "title" : "배송정보",
+            "desc" : [
+                {
+                    "detail" : "상품별로 상품 특성 및 배송지에 따라 배송유형 및 소요기간이 달라집니다."
+                },
+                {
+                    "detail" : "일부 주문상품 또는 예약상품의 경우 기본 배송일 외에 추가 배송 소요일이 발생될 수 있습니다."
+                },
+                {
+                    "detail" : " 동일 브랜드의 상품이라도 상품별 출고일시가 달라 각각 배송될 수 있습니다."
+                },
+                {
+                    "detail" : " 제주 및 도서산간 지역은 출고, 반품, 교환시 추가 배송비(항공, 도선료)가 부과 될 수 있습니다."
+                },
+                {
+                    "detail" : "상품의 배송비는 공급업체의 정책에 따라 다르오며 공휴일 및 휴일은 배송이 불가합니다."
+                }
+            ]
+        },
+        {
+            "title" : "취소/반품/교환 안내",
+            "desc" : [
+                {
+                    "detail" : "회수지 정보 : 경기도 이천시 경충대로 2610 (중리동) 이천우체국 소포실 ((주)파사드패턴) / (주)파사드패턴"
+                },
+                {
+                    "detail" : "동일 브랜드의 상품이라도 교환/반품 회수지가 다를 수 있습니다. 상품상세 정보 또는 회수지 정보를 확인하신 후 반드시 지정된 회수지로 보내주세요."
+                },
+                {
+                    "detail" : " 상품을 지정된 회수지가 아닌곳으로 보내실 경우 택배 분실 또는 재발송에 따른 추가 비용이 발생할 수 있습니다."
+                },
+                {
+                    "detail" : " 고객센터나 'My Page > 주문취소/교환/반품 신청'을 통한 교환/반품 접수 없이 상품을 회수지로 보내실 경우 재발송에 따른 추가 비용이 발생할 수 있으며 경우에 따라서는 교환/반품이 어려울 수 있습니다."
+                },
+                {
+                    "detail" : "상품하자 이외 사이즈, 색상교환 등 단순 변심에 의한 교환/반품 택배비 고객부담으로 왕복택배비가 발생합니다. (전자상거래 등에서의 소비자보호에 관한 법률 제18조(청약 철회등)9항에 의거 소비자의 사정에 의한 청약 철회 시 택배비는 소비자 부담입니다.)",
+                    "bold" : "bold"
+                },
+                {
+                    "detail" : "결제완료 직후 즉시 주문취소는 'MY Page> 취소/교환/반품 신청'에서 직접 처리 가능합니다."
+                },
+                {
+                    "detail" : "주문완료 후 재고 부족 등으로 인해 주문 취소 처리가 될 수도 있는 점 양해 부탁드립니다."
+                },
+                {
+                    "detail" : "주문상태가 상품준비중인 경우 취소신청이 가능하며 판매자의 승인 여부(이미 배송을 했거나 포장을 완료한 경우)에 따라 취소가 불가능할 수 있습니다."
+                },
+                {
+                    "detail" : "교환 신청은 최초 1회에 한하며, 교환 배송 완료 후에는 추가 교환 신청은 불가합니다."
+                },
+                {
+                    "detail" : "반품/교환은 미사용 제품에 한해 배송완료 후 7일 이내 접수하여 주십시오."
+                },
+                {
+                    "detail" : "임의반품은 불가하오니 반드시 고객센터나 'MY Page &gt; 주문취소/교환/반품 신청'을 통해서 신청접수를 하시기 바랍니다."
+                },
+                {
+                    "detail" : " 상품하자, 오배송의 경우 택배비 무료로 교환/반품이 가능하지만 모니터의 색상차이, 착용감, 사이즈의 개인의 선호도는 상품의 하자 사유가 아닙니다."
+                },
+                {
+                    "detail" : "고객 부주의로 상품이 훼손, 변경된 경우 반품 / 교환이 불가능 합니다."
+                },
+                {
+                    "detail" : "취소/반품 대금환불이 지연 시 전자상거래법에 의거하여 환불지연 배상처리 절차가 진행됩니다."
+                }
+            ]
+        },
+        {
+            "title" : "반품/교환 불가능한 경우",
+            "desc" : [
+                {
+                    "detail" : "제품을 사용 또는 훼손한 경우, 사은품 누락, 상품 TAG, 보증서, 상품 부자재가 제거 혹은 분실된 경우"
+                },
+                {
+                    "detail" : "밀봉포장을 개봉했거나 내부 포장재를 훼손 또는 분실한 경우(단, 제품확인을 위한 개봉 제외)"
+                },
+                {
+                    "detail" : "시간이 경과되어 재판매가 어려울 정도로 상품가치가 상실된 경우"
+                },
+                {
+                    "detail" : "고객님의 요청에 따라 주문 제작되어 고객님 외에 사용이 어려운 경우"
+                },
+                {
+                    "detail" : "배송된 상품이 설치가 완료된 경우(가전, 가구 등)"
+                },
+                {
+                    "detail" : "기타 전자상거래 등에서의 소비자보호에 관한 법률이 정하는 청약철회 제한사유에 해당하는 경우"
+                }
+            ]
+        },
+        {
+            "title" : "A/S 안내",
+            "desc" : [
+                {
+                    "detail" : " A/S 기준이나 가능여부는 브랜드와 상품에 따라 다르므로 관련 문의는 더블유컨셉 고객센터를 통해 부탁드립니다."
+                },
+                {
+                    "detail" : "상품불량에 의한 반품, 교환, A/S, 환불, 품질보증 및 피해보상 등에 관한 사항은 소비자분쟁해결기준(공정거래위원회 고시)에 따라 받으실 수 있습니다."
+                }
+            ]
+        }
+    ]
+
+
+
+}
+
+
+

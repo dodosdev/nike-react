@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nike-react/static/css/main.c69875cc.css",
+    "main.js": "/nike-react/static/js/main.c65c4431.js",
+    "index.html": "/nike-react/index.html",
+    "main.c69875cc.css.map": "/nike-react/static/css/main.c69875cc.css.map",
+    "main.c65c4431.js.map": "/nike-react/static/js/main.c65c4431.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c69875cc.css",
+    "static/js/main.c65c4431.js"
+  ]
+}
