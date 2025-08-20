@@ -3,35 +3,35 @@
     "newList" : [
     {
     "id": 1,
-    "imageSrc": "./images/pd01.jpg",
+    "imageSrc": "/images/pd01.jpg",
     "title": "대학생 멤버 혜택",
     "description": "멤버만을 위한 제품 혜택",
     "mainTitle":"New & Featured"
     },
     {
     "id": 2,
-    "imageSrc": "./images/pd02.jpg",
+    "imageSrc": "/images/pd02.jpg",
     "imageAlt": "Product-chart2",
     "title": "여름 한정 혜택",
     "description": "여름에만 제공되는 특별한 혜택"
     },
     {
     "id": 3,
-    "imageSrc": "./images/pd04.jpg",
+    "imageSrc": "/images/pd04.jpg",
     "imageAlt": "Movie-chart1",
     "title": "운동과 쇼핑을 위한 특별한 혜택",
     "description": "멤버만을 위한 제품 혜택"
     },
     {
     "id": 4,
-    "imageSrc": "./images/pd05.jpg",
+    "imageSrc": "/images/pd05.jpg",
     "imageAlt": "Product-chart2",
     "title": "언제 어디서든 운동하기 함께 운동하기",
     "description": "스포츠 & 웰니스 혜택"
     },
     {
     "id": 5,
-    "imageSrc": "./images/pd06.JPG",
+    "imageSrc": "/images/pd06.JPG",
     "imageAlt": "Movie-chart1",
     "title": "최고의 스니커즈 커뮤니티",
     "description": "SNKRS"
@@ -56,31 +56,31 @@
         "raceList": [
             {
                 "mainTitle":"레이스 룩 준비하기",
-                "imageSrc": "./images/products/product01.png",
+                "imageSrc": "/images/products/product01.png",
                 "title": "나이키 줌 플라이 6",
                 "description": "여성 로드 레이싱화",
                 "price": "209,000 원"
             },
             {
-                "imageSrc": "./images/products/product03.png",
+                "imageSrc": "/images/products/product03.png",
                 "title": "나이키 보메로 6",
                 "description": "남성 로드 러닝화",
                 "price": "109,000 원"
             },
             {
-                "imageSrc": "./images/products/poduct04.png",
+                "imageSrc": "/images/products/poduct04.png",
                 "title": "나이키 인빈서블",
                 "description": "여성 로드 레이싱화",
                 "price": "309,000 원"
             },
             {
-                "imageSrc": "./images/products/product09.JPG",
+                "imageSrc": "/images/products/product09.JPG",
                 "title": "나이키 페가수스 플러스",
                 "description": "레이싱화",
                 "price": "125,000 원"
             },
             {
-                "imageSrc": "./images/products/product08.JPG",
+                "imageSrc": "/images/products/product08.JPG",
                 "title": "나이키 울트라 플라이",
                 "description": "트레일 레이싱화",
                 "price": "250,000 원"
@@ -91,7 +91,7 @@
         "detailProducts": [
             {   
                 "pid" : "1",
-                "img" :"./images/products/tanktop01.png",
+                "img" :"/images/products/tanktop01.png",
                 "newTitle": "친환경 소재",
                 "cardTitle": "나이키 스위프트",
                 "cardSubtitle": "여성 드라이 핏 러닝 탱크 탑",
@@ -101,7 +101,7 @@
             },
             {   
                 "pid" : "2",
-                "img" :"./images/products/swift01.png",
+                "img" :"/images/products/swift01.png",
                 "newTitle": "친환경 소재",
                 "cardTitle": "나이키 스위프트",
                 "cardSubtitle": "여성 리펠 패커블 러닝 재킷",
@@ -110,7 +110,7 @@
             },
             {
                 "pid" : "3",
-                "img" :"./images/products/iconic03.JPG",
+                "img" :"/images/products/iconic03.JPG",
                 "newTitle": "신제품",
                 "cardTitle": "나이키 페가수스 프리미엄",
                 "cardSubtitle": "로드 러닝화",
@@ -119,7 +119,7 @@
             },
             {
                 "pid" : "4",
-                "img" :"./images/products/iconic04.JPG",
+                "img" :"/images/products/iconic04.JPG",
                 "newTitle": "신제품",
                 "cardTitle": "나이키 페가수스 프리미엄",
                 "cardSubtitle": "로드 러닝화",
@@ -128,7 +128,7 @@
             },
             {
                 "pid" : "5",
-                "img" :"./images/products/iconic05.JPG",
+                "img" :"/images/products/iconic05.JPG",
                 "newTitle": "신제품",
                 "cardTitle": "나이키 페가수스 프리미엄",
                 "cardSubtitle": "로드 러닝화",
@@ -137,7 +137,7 @@
             },
             {
                 "pid" : "6",
-                "img" :"./images/products/iconic06.JPG",
+                "img" :"/images/products/iconic06.JPG",
                 "newTitle": "신제품",
                 "cardTitle": "나이키 페가수스 프리미엄",
                 "cardSubtitle": "로드 러닝화",
@@ -145,7 +145,7 @@
                 "cardPrice": "279,000"
             },
             {
-                "img" :"./images/products/iconic07.JPG",
+                "img" :"/images/products/iconic07.JPG",
                 "newTitle": "신제품",
                 "cardTitle": "나이키 페가수스 프리미엄",
                 "cardSubtitle": "로드 러닝화",
@@ -154,7 +154,7 @@
             },
             {   
                 "pid" : "7",
-                "img" :"./images/products/iconic01.JPG",
+                "img" :"/images/products/iconic01.JPG",
                 "newTitle": "신제품",
                 "cardTitle": "나이키 페가수스 프리미엄",
                 "cardSubtitle": "로드 러닝화",
@@ -163,7 +163,7 @@
             },
             {
                 "pid" : "8",
-                "img" :"./images/products/iconic02.JPG",
+                "img" :"/images/products/iconic02.JPG",
                 "newTitle": "신제품",
                 "cardTitle": "나이키 페가수스 프리미엄",
                 "cardSubtitle": "로드 러닝화",
@@ -172,7 +172,7 @@
             },
             {
                 "pid" : "9",
-                "img" :"./images/products/iconic04.JPG",
+                "img" :"/images/products/iconic04.JPG",
                 "newTitle": "신제품",
                 "cardTitle": "나이키 페가수스 프리미엄",
                 "cardSubtitle": "로드 러닝화",
@@ -181,7 +181,7 @@
             },
             {
                 "pid" : "10",
-                "img" :"./images/products/airmax02.png",
+                "img" :"/images/products/airmax02.png",
                 "newTitle": "신제품",
                 "cardTitle": "나이키 페가수스 프리미엄",
                 "cardSubtitle": "로드 러닝화",
@@ -190,7 +190,7 @@
             },
             {
                 "pid" : "11",
-                "img" :"./images/products/airmax01.png",
+                "img" :"/images/products/airmax01.png",
                 "newTitle": "신제품",
                 "cardTitle": "나이키 페가수스 프리미엄",
                 "cardSubtitle": "로드 러닝화",
@@ -205,13 +205,13 @@
                 "cardItem": "1개 색상",
                 "cardPrice": "279,000",
                 "imglist" :[
-                            "./images/products/airmax02.png",
-                            "./images/products/airmax02.png"
+                            "/images/products/airmax02.png",
+                            "/images/products/airmax02.png"
                             ]
             },   
             { 
                 "pid" : "13",
-                "img" :"./images/products/airmax01.png",
+                "img" :"/images/products/airmax01.png",
                 "newTitle": "신제품",
                 "cardTitle": "나이키 페가수스 프리미엄",
                 "cardSubtitle": "로드 러닝화",
@@ -220,7 +220,7 @@
             },
             {
                 "pid" : "14",
-                "img" :"./images/products/flop01.png",
+                "img" :"/images/products/flop01.png",
                 "newTitle": "신제품",
                 "cardTitle": "나이키 페가수스 프리미엄",
                 "cardSubtitle": "로드 러닝화",
