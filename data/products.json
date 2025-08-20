@@ -3,14 +3,14 @@
     "newList" : [
     {
     "id": 1,
-    "imageSrc": "/images/pd01.jpg",
+    "imageSrc": "https://dodosdev.github.io/nike-react/images/pd01.jpg",
     "title": "대학생 멤버 혜택",
     "description": "멤버만을 위한 제품 혜택",
     "mainTitle":"New & Featured"
     },
     {
     "id": 2,
-    "imageSrc": "/images/pd02.jpg",
+    "imageSrc": "https://dodosdev.github.io/nike-react/images/pd02.jpg",
     "imageAlt": "Product-chart2",
     "title": "여름 한정 혜택",
     "description": "여름에만 제공되는 특별한 혜택"
