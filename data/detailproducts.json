@@ -10,8 +10,8 @@
                 "cardItem": "1개 색상",
                 "cardPrice": "65000",
                 "imgList" :[
-                            "/images/products/newpd01.JPG",
-                            "/images/products/newpd02.JPG",
+                            "./images/products/newpd01.JPG",
+                            "./images/products/newpd02.JPG",
                             "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ad90f04f-ec1a-4371-b1f3-91c3dc347960/AS+W+NK+SWIFT+DF+TANK+TOP.png",
                             "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4f5d16fe-ac67-4754-84cb-03885683a35e/AS+W+NK+SWIFT+DF+TANK+TOP.png"
                             ],
